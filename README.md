@@ -1,7 +1,7 @@
 # JuniorDesign
 documentation, code snippets, and other files related to Junior Design project
 
-## Buck Converter Schematic:
+### Buck Converter Schematic:
 ![Buck Converter](https://github.com/RocketDan11/JuniorDesign/blob/master/images/buck-converter-schematic.PNG)
 
 | Passive Components | Value | 
