@@ -14,3 +14,6 @@ documentation, code snippets, and other files related to Junior Design project
 | -------- | :------: |
 | DC Power Supply | 40V |
 | Pulse Generator (square wave) | 27kHz (70% duty cycle) |
+
+### I-V Characteristics Graph:
+![IV Characterstics](https://github.com/RocketDan11/JuniorDesign/blob/master/images/iv-characteristics.png)
