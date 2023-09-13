@@ -2,7 +2,7 @@
 documentation, code snippets, and other files related to Junior Design project
 
 ### Buck Converter Schematic:
-![Buck Converter](https://github.com/RocketDan11/JuniorDesign/blob/master/images/buck-converter-schematic.PNG)
+![Buck Converter](https://github.com/RocketDan11/JuniorDesign/blob/master/Images/buck-converter-schematic.PNG)
 
 | Passive Components | Value | 
 | -------- | :------: |
@@ -16,4 +16,4 @@ documentation, code snippets, and other files related to Junior Design project
 | Pulse Generator (square wave) | 27kHz (70% duty cycle) |
 
 ### I-V Characteristics Graph:
-![IV Characterstics](https://github.com/RocketDan11/JuniorDesign/blob/master/images/iv-characteristics.png)
+![IV Characterstics](https://github.com/RocketDan11/JuniorDesign/blob/master/Images/iv-characteristics.png)
